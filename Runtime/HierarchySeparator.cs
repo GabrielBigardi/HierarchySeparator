@@ -6,10 +6,10 @@ using UnityEditor;
 #endif
 public class HierarchySeparator : MonoBehaviour
 {
-    public Color OutlineColor;
-    public Color BarColor;
-    public Color TextColor;
-    public int OutlineSize;
+    public Color OutlineColor = Color.white;
+    public Color BarColor = Color.black;
+    public Color TextColor = Color.white;
+    public int OutlineSize = 1;
 
 #if UNITY_EDITOR
     static HierarchySeparator()
