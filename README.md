@@ -4,7 +4,6 @@ A separator for your project hierarchy
 
 ## How to use
 ![How to Use](http://g.recordit.co/PXMcX3ToH3.gif)
-
 1. Open package manager
 2. Click on plus button and "Add package from git URL"
 3. Paste https://github.com/GabrielBigardi/HierarchySeparator.git and click Add
